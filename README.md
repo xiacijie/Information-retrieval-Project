@@ -1,4 +1,7 @@
-                                            General Overview and User Guide
+                                       Cooperated with: Monica Bui, Minghan Li
+				       
+				       
+				       General Overview and User Guide
 The database contains records from papers that have several features but not limited to such as a key, author(s), paper title, etc. The user is then able to query specific results they want to see and can filter output with a specific category in mind such as papers from a specific year and author. 
 
 To run phase 1 - type in command line “python3 generating_files.py name_of_input_xml_file”
