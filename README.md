@@ -1,4 +1,4 @@
-                                       Cooperated with: Monica Bui, Minghan Li
+Cooperated with: Monica Bui, Minghan Li
 				       
 				       
 				       General Overview and User Guide
