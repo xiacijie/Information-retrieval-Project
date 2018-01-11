@@ -1,5 +1,9 @@
 ## Cooperated with: Monica Bui, Minghan Li
-				       
+## Image Overviews
+![screenshot from 2018-01-10 16-50-16](https://user-images.githubusercontent.com/27936587/34802097-ff3fb378-f628-11e7-9cc7-2d24d95c21a4.png)
+![screenshot from 2018-01-10 16-51-00](https://user-images.githubusercontent.com/27936587/34802102-00bddd10-f629-11e7-878d-0c612d0f847c.png)
+![screenshot from 2018-01-10 16-54-13](https://user-images.githubusercontent.com/27936587/34802103-01736fae-f629-11e7-8770-24415a5d1f08.png)
+
 				       
 				       General Overview and User Guide
 The database contains records from papers that have several features but not limited to such as a key, author(s), paper title, etc. The user is then able to query specific results they want to see and can filter output with a specific category in mind such as papers from a specific year and author. 
